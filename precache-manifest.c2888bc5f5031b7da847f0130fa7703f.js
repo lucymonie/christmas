@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/christmas/static/js/runtime~main.acbf99f7.js"
   },
   {
-    "revision": "921b563915605e0343fb",
-    "url": "/christmas/static/js/main.921b5639.chunk.js"
+    "revision": "31eb4b4582390490ecdb",
+    "url": "/christmas/static/js/main.31eb4b45.chunk.js"
   },
   {
     "revision": "324b6cf3b56bf43378ce",
     "url": "/christmas/static/js/1.324b6cf3.chunk.js"
   },
   {
-    "revision": "921b563915605e0343fb",
+    "revision": "31eb4b4582390490ecdb",
     "url": "/christmas/static/css/main.45c607b7.chunk.css"
   },
   {
-    "revision": "377e85a62cdf389a6dbcc1b5e88e3556",
+    "revision": "0baf985bd76d2cda1765db0d6dbf99f3",
     "url": "/christmas/index.html"
   }
 ];
